@@ -1,7 +1,7 @@
 <!-- Open Source Pickle • Organization Profile README -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/ops-logo-min.png" alt="Open Source Pickle logo" height="96">
+  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/ops-logo-min.png" alt="Open Source Pickle logo" height="90">
 </p>
 
 <h1 align="center">👋 Welcome to the Open Source Pickle GitHub organization 👋</h1>
