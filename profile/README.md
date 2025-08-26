@@ -1,46 +1,59 @@
-<!-- Open Source Pickle • Organization Profile README -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/osp-logo-min.png" alt="Open Source Pickle logo" height="90">
+  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/osp-logo-min.png" alt="Open Source Pickle logo" height="120">
 </p>
 
 <h1 align="center">👋 Welcome to the Open Source Pickle GitHub organization 👋</h1>
 
-We create open resources for IT support engineering, device automation, identity integrations, and technical documentation.  
-Our goal is to share practical tools and workflows that help teams deliver secure, reliable, and user-friendly IT experiences at scale.
+Open Source Pickle is a community-driven initiative focused on **modern IT support engineering**.  
+We share practical scripts, documentation, and workflows to help teams deliver secure, reliable, and user-friendly IT at scale.  
+
+Our repositories cover areas such as:
+- 🚀 **Device automation** (zero-touch provisioning, macOS onboarding)  
+- ⚡ **Scripting & tooling** (Bash/Python for IT automation)  
+- 🔐 **Identity & integrations** (Okta, Google Workspace, Slack, Zoom)  
+- 📝 **Documentation & training** (handbooks, runbooks, checklists)  
+- 🌐 **Networking & infrastructure** (firewalls, config management, Linux admin)  
 
 ---
 
-## 📖 Documentation & Learning
-- **`it-handbook`** – Onboarding guides, runbooks, and troubleshooting playbooks  
-- **`support-runbooks`** – Triage flows, escalation steps, and templates  
-- **`security-checklists`** – Practical baselines mapped to industry standards  
+## 📖 Documentation
+
+### Open Source Pickle Docs
+- [IT Handbook](https://github.com/open-source-pickle/it-handbook) – onboarding guides, troubleshooting, AV setup  
+- [Device Automation](https://github.com/open-source-pickle/device-automation) – zero-touch setup, Jamf ↔ Intune migration  
+- [IT Automation Scripts](https://github.com/open-source-pickle/it-automation-scripts) – Bash/Python utilities  
+- [Security Checklists](https://github.com/open-source-pickle/security-checklists) – practical endpoint baselines  
+
+### Vendor Docs & References
+> Useful links for IT admins managing common SaaS and infrastructure platforms.
+
+- **Google Workspace** → [Admin Help Center](https://support.google.com/a/)  
+- **GitHub** → [Docs](https://docs.github.com)  
+- **AWS** → [Documentation](https://docs.aws.amazon.com/)  
+- **Microsoft Office 365** → [Admin Docs](https://learn.microsoft.com/en-us/microsoft-365/)  
+- **Microsoft Azure** → [Docs](https://learn.microsoft.com/en-us/azure/)  
+- **Okta** → [Developer Docs](https://developer.okta.com/docs/)  
+- **Slack** → [Help Center](https://slack.com/help)  
+- **Zoom** → [IT Admin Docs](https://support.zoom.com/hc/en)  
 
 ---
 
-## 💻 Device Management & Automation
-- **`device-automation`** – Zero-touch setup and fleet management workflows  
-- **`macos-onboarding`** – Sample enrollment flows with security baselines  
-- **`macos-packaging`** – Packaging and deployment examples for Apple devices  
+## 📝 Blog
+
+We document our journey, learning in public.  
+Check out the blog for case studies, tutorials, and insights on IT operations:  
+
+👉 [Open Source Pickle Blog](https://opensourcepickle.com/blog)  
 
 ---
 
-## ⚡️ Scripting & Tools
-- **`it-automation-scripts`** – Bash and Python utilities for repetitive tasks  
-- **`cli-cookbook`** – Handy shell snippets for daily IT admin work  
-- **`linux-admin-toolkit`** – System administration scripts and notes for Linux & macOS  
-
----
-
-## 🔐 Identity & Integrations
-- **`identity-integrations`** – Okta, Google Workspace, and LDAP examples  
-- **`zoom-google-suite-tooling`** – Automation for common collaboration platforms  
-
----
-
-## 🌐 Networking & Infrastructure
-- **`config-management-examples`** – Ansible playbooks for configuration tasks  
-- **`networking-lab`** – Firewall, DNS, and VPN test setups and recipes  
+## 🧩 Featured Projects
+- **`device-automation`** – Zero-touch workflows for Apple fleet management  
+- **`it-automation-scripts`** – Utilities for repetitive tasks (bulk user ops, resets, inventory exports)  
+- **`identity-integrations`** – Okta & Google Workspace examples  
+- **`it-handbook`** – Markdown guides for onboarding, troubleshooting, AV setup  
+- **`security-checklists`** – CIS/NIST-inspired endpoint security practices  
+- **`networking-lab`** – DNS, VPN, and firewall recipes  
 
 ---
 
@@ -54,7 +67,9 @@ We welcome contributions!
 
 ## Organization
 - **Website:** https://opensourcepickle.com  
+- **Blog:** https://opensourcepickle.com/blog  
 - **Email:** terrance@opensourcepickle.com  
 - **Location:** New York, NY  
 
 <sub>© Open Source Pickle. MIT-licensed unless noted otherwise.</sub>
+
