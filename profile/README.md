@@ -118,15 +118,30 @@ We welcome contributions!
 
 ---
 
+---
+
 ## 👤 About the Founder
+
+<p align="center">
+  <!-- Replace the link below with the actual uploaded path to your photo in the repo -->
+  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/terrance-min.jpg" alt="Terrance Pickle" height="160" style="border-radius:50%">
+</p>
 
 Hi, I’m **Terrance Pickle** — IT Support Engineer focused on Apple fleet management, automation, and user experience.
 
-**Highlights:**
-- Led a **Jamf → Intune migration** for macOS devices with zero-touch onboarding & compliance.
-- Built **Python/Bash automations** to eliminate repetitive tasks and speed up onboarding.
-- Authored **IT documentation** (runbooks, handbooks, checklists) used across teams.
-- Partnered with global stakeholders to troubleshoot, support, and optimize productivity.
+**Highlights:**  
+- Led a **Jamf → Intune migration** for macOS devices with zero-touch onboarding & compliance.  
+- Built **Python/Bash automations** to eliminate repetitive tasks and speed up onboarding.  
+- Authored **IT documentation** (runbooks, handbooks, checklists) used across teams.  
+- Partnered with global stakeholders to troubleshoot, support, and optimize productivity.  
+
+**Why Open Source Pickle?**  
+To share reusable IT resources, learn in public, and show how modern IT support can be open, collaborative, and impactful.  
+
+📎 Connect with me:  
+- **LinkedIn:** [linkedin.com/in/tpickle](https://www.linkedin.com/in/tpickle/)  
+- **Personal GitHub:** [github.com/tpickle](https://github.com/tpickle)  
+
 
 **Why Open Source Pickle?**  
 To share reusable IT resources, learn in public, and show how modern IT support can be open, collaborative, and impactful.
