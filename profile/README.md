@@ -32,8 +32,8 @@ This organization is both a **showcase** and a **toolbox**:
    - **[Identity Integrations](https://github.com/open-source-pickle/identity-integrations)** covers Okta, Google Workspace, and SSO flows.
    - **[Zoom & Google Suite Tooling](https://github.com/open-source-pickle/zoom-google-suite-tooling)** automates collaboration platform tasks.
 
-4) **Use the vendor references**
-   - Jump to **Vendor Docs & References** below for official documentation across the ecosystem.
+4) **Use the vendor references**  
+   - Jump to [Vendor Docs & References](https://github.com/Open-Source-Pickle/.github/blob/main/profile/README.md#vendor-docs--references) below for official documentation across the ecosystem.
 
 5) **Stay updated**
    - Read the **[Open Source Pickle Blog](https://opensourcepickle.com/blog)** for tutorials, case studies, and release notes.
