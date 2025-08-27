@@ -124,7 +124,7 @@ We welcome contributions!
 
 <p align="center">
   <!-- Replace the link below with the actual uploaded path to your photo in the repo -->
-  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/terrance-min.jpg" alt="Terrance Pickle" height="160" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/Terrance-min.jpg" alt="Terrance Pickle" height="160" style="border-radius:50%">
 </p>
 
 Hi, I’m **Terrance Pickle** — IT Support Engineer focused on Apple fleet management, automation, and user experience.
