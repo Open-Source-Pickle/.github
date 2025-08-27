@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/open-source-pickle/.github/main/profile/osp-logo-min.png" alt="Open Source Pickle logo" height="120">
 </p>
 
-<h1 align="center">👋 Welcome to the Open Source Pickle GitHub organization 👋</h1>
+<h1 align="center">👋 Welcome to the Open Source Pickle GitHub organization</h1>
 
 Open Source Pickle is a community-driven initiative focused on **modern IT support engineering**.  
 We share practical scripts, documentation, and workflows to help teams deliver secure, reliable, and user-friendly IT at scale.
