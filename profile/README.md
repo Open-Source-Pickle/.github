@@ -146,8 +146,6 @@ To share reusable IT resources, learn in public, and show how modern IT support 
 **Why Open Source Pickle?**  
 To share reusable IT resources, learn in public, and show how modern IT support can be open, collaborative, and impactful.
 
-🔗 Connect: **LinkedIn** — https://www.linkedin.com/in/tpickle/
-
 ---
 
 ## Organization
